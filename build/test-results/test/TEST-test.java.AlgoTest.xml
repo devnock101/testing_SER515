@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.java.AlgoTest" tests="24" skipped="0" failures="0" errors="0" timestamp="2018-10-22T05:31:58" hostname="Abhisheks-MacBook-Pro.local" time="0.012">
+  <properties/>
+  <testcase name="ascendingInputArray_2" classname="test.java.AlgoTest" time="0.004"/>
+  <testcase name="ascendingInputArray_3" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="ascendingInputArray_4" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="ascendingInputArray_5" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="ascendingInputArray_6" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="forNullHeapSort" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="singleElementArray" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="descendingInputArray" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="forNullInsertionSort" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="ascendingInputArray" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="singleElementArray_2" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="singleElementArray_3" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="singleElementArray_4" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="singleElementArray_5" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="singleElementArray_6" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="forNullQuickSort" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="forNullSelectionSort" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="forNullMergeSort" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="forNullBubbleSort" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="descendingInputArray_2" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="descendingInputArray_3" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="descendingInputArray_4" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="descendingInputArray_5" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="descendingInputArray_6" classname="test.java.AlgoTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
